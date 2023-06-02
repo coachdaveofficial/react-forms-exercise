@@ -1,0 +1,12 @@
+.Todo {
+    color: black;
+    font-weight: bold;
+    margin: 20px;
+    padding: 5px;
+}
+
+.Completed {
+    color: gray;
+    font-weight: 200;
+    text-decoration: line-through;
+}
